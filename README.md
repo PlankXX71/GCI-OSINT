@@ -8,7 +8,7 @@
 
 # Demo
 
-[![](https://asciinema.org/a/cuyg4ksoumPTMoRfufJwzz93B?fbclid=IwAR3WTTsXiAb_s2iJCfRNV0U90K_mlWC7ELjFVdpbPry6ITOYQ9zTNowQp6s.png)](https://asciinema.org/a/cuyg4ksoumPTMoRfufJwzz93B?fbclid=IwAR3WTTsXiAb_s2iJCfRNV0U90K_mlWC7ELjFVdpbPry6ITOYQ9zTNowQp6s)
+[![](https://asciinema.org/a/cuyg4ksoumPTMoRfufJwzz93B.png)](https://asciinema.org/a/cuyg4ksoumPTMoRfufJwzz93B)
 
 # How To Install ?
 <pre>
