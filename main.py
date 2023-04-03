@@ -8,8 +8,7 @@ class GCI:
 
 	def main():
 		user = str(input("[!] Input Name Victim ? "))
-        def main():
-                number = str(input("[!] Input Number Victim ? "))
+                user = str(input("[!] Input Number Victim ? "))
 		init = url.PoolManager()
 		a = init.request("GET", "https://facebook.com/" + user)
 		b = init.request("GET", "https://instagram.com/" + user)
@@ -17,7 +16,7 @@ class GCI:
                 d = init.request("GET", "https://m.youtube.com/" + user)
                 e = init.request("GET", "https://github.com" + user)
                 f = init.request("GET", "https://www.tiktok.com/" + user)
-                g = init.request("GET", "https://wa.mr/" + number)
+                g = init.request("GET", "https://wa.me/" + number)
   
   
 		if a.status == 200:
