@@ -8,6 +8,7 @@ class GCI:
 
 	def main():
 		user = str(input("[!] Input Name Victim ? "))
+        def main():
                 number = str(input("[!] Input Number Victim ? "))
 		init = url.PoolManager()
 		a = init.request("GET", "https://facebook.com/" + user)
